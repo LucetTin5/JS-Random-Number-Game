@@ -1,0 +1,12 @@
+body {
+  font-size: large;
+}
+.chooseMax {
+  width: 200px;
+}
+#guess {
+  width: 50px;
+}
+.afterPlay > div:nth-child(2) {
+  font-weight: bolder;
+}
